@@ -1,0 +1,191 @@
+[
+    {
+        "bodyPart": "back",
+        "equipment": "cable",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1cYWum3seGtEMSfAYW81BZc-q-RVNPbA8",
+        "id": 6,
+        "name": "alternate lateral pulldown",
+        "target": "lats",
+        "instructions": "Sit at a cable machine with a lat pulldown bar attached. Grasp the bar with an overhand grip, hands shoulder-width apart. Pull the bar down to one side while keeping the other arm extended. Alternate sides with each repetition."
+    },
+    {
+        "bodyPart": "back",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1N2xh-ydGR-ZUoVrDV3dOqmuv09rYn3yl",
+        "id": 8,
+        "name": "archer pull up",
+        "target": "lats",
+        "instructions": "Hang from a pull-up bar with a wide grip. Pull yourself up to one side, keeping the other arm straight. Alternate sides with each repetition."
+    },
+    {
+        "bodyPart": "back",
+        "equipment": "leverage machine",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1Utnv-QWqkResUHrflLf3R0_o7Z-Uj9-E",
+        "id": 23,
+        "name": "assisted parallel close grip pull-up",
+        "target": "lats",
+        "instructions": "Use an assisted pull-up machine with parallel bars. Grasp the bars with a close grip and pull yourself up while the machine assists with your body weight."
+    },
+    {
+        "bodyPart": "back",
+        "equipment": "leverage machine",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1f36PWd5HrOtyKZjyQrOTY2f3cqLE3ihz",
+        "id": 27,
+        "name": "assisted pull-up",
+        "target": "lats",
+        "instructions": "Use an assisted pull-up machine. Grasp the pull-up bar with a shoulder-width grip and pull yourself up while the machine assists with your body weight."
+    },
+    {
+        "bodyPart": "back",
+        "equipment": "leverage machine",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=12u6NyHHTiVmetGy5RgeAjsCD2x88k8BL",
+        "id": 31,
+        "name": "assisted standing chin-up",
+        "target": "lats",
+        "instructions": "Use an assisted pull-up machine. Stand on the platform and grasp the bar with an underhand grip. Pull yourself up while the machine assists with your body weight."
+    },
+    {
+        "bodyPart": "back",
+        "equipment": "leverage machine",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1n9YzK1bDn7HKGLs6xWxsBE0t9tlp3A8m",
+        "id": 32,
+        "name": "assisted standing pull-up",
+        "target": "lats",
+        "instructions": "Use an assisted pull-up machine. Stand on the platform and grasp the bar with an overhand grip. Pull yourself up while the machine assists with your body weight."
+    },
+    {
+        "bodyPart": "back",
+        "equipment": "stability ball",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1o1GHnR7mgjilHfplOdHDgBJGgqqdKW91",
+        "id": 38,
+        "name": "back extension on exercise ball",
+        "target": "spine",
+        "instructions": "Lie face down on a stability ball with your feet on the ground. Lift your upper body by extending your spine, then lower back down and repeat."
+    },
+    {
+        "bodyPart": "back",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1mTR3ftJPw-qQJTg11gKkh7o9yx8D8ChV",
+        "id": 39,
+        "name": "back lever",
+        "target": "upper back",
+        "instructions": "Hang upside down from a pull-up bar with an overhand grip. Slowly lower your body into a horizontal position, keeping your body straight. Hold the position, then return to the starting position."
+    },
+    {
+        "bodyPart": "back",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1fzEDUXU9To1bAli2xgLMMNfFipe91mlA",
+        "id": 40,
+        "name": "back pec stretch",
+        "target": "lats",
+        "instructions": "Stand with your feet shoulder-width apart. Reach your arms behind you and clasp your hands together. Lift your arms up and away from your body to stretch your chest and lats."
+    },
+    {
+        "bodyPart": "back",
+        "equipment": "band",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1WCFWUlC9rVpYMFTyRSySnNOUWvfY_JRk",
+        "id": 45,
+        "name": "band assisted pull-up",
+        "target": "lats",
+        "instructions": "Loop a resistance band around a pull-up bar and place one foot in the band. Grasp the bar with a shoulder-width grip and pull yourself up, using the band for assistance."
+    },
+    {
+        "bodyPart": "back",
+        "equipment": "band",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1pNVQnmexPhPb0NoBxhu3kXF8JrwTFuMF",
+        "id": 50,
+        "name": "band close-grip pulldown",
+        "target": "lats",
+        "instructions": "Attach a resistance band to a high anchor point. Grasp the band with a close grip and pull it down towards your chest, keeping your elbows close to your body."
+    },
+    {
+        "bodyPart": "back",
+        "equipment": "band",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1DMk-TyT-ypcEvnz4lxl1oMIsZmS_GuQH",
+        "id": 53,
+        "name": "band fixed back close grip pulldown",
+        "target": "lats",
+        "instructions": "Attach a resistance band to a high anchor point. Grasp the band with a close grip and pull it down towards your chest, keeping your back straight and your elbows close to your body."
+    },
+    {
+        "bodyPart": "back",
+        "equipment": "band",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1WDvOUTZRLOsx5hrzxmwkIpywaH2inzYR",
+        "id": 54,
+        "name": "band fixed back underhand pulldown",
+        "target": "lats",
+        "instructions": "Attach a resistance band to a high anchor point. Grasp the band with an underhand grip and pull it down towards your chest, keeping your back straight and your elbows close to your body."
+    },
+    {
+        "bodyPart": "back",
+        "equipment": "band",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1d2Fgmw_Y2At4vEZWYe7i-x9azwALQ1rY",
+        "id": 60,
+        "name": "band kneeling one arm pulldown",
+        "target": "lats",
+        "instructions": "Attach a resistance band to a high anchor point. Kneel on one knee and grasp the band with one hand. Pull the band down towards your chest, keeping your back straight and your elbow close to your body. Alternate sides with each repetition."
+    },
+    {
+        "bodyPart": "back",
+        "equipment": "band",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1adgHNEE9ALuS-fE135uR2jmoAW0mdKlL",
+        "id": 66,
+        "name": "band one arm standing low row",
+        "target": "upper back",
+        "instructions": "Attach a resistance band to a low anchor point. Stand with your feet shoulder-width apart and grasp the band with one hand. Pull the band towards your waist, keeping your back straight and your elbow close to your body. Alternate sides with each repetition."
+    },
+    {
+        "bodyPart": "back",
+        "equipment": "band",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1kFlHuAmYAoloGw5TilALxqEwSWmvlyMK",
+        "id": 68,
+        "name": "band one arm twisting seated row",
+        "target": "upper back",
+        "instructions": "Attach a resistance band to a low anchor point. Sit on the ground with your legs extended and grasp the band with one hand. Pull the band towards your waist while twisting your torso, keeping your back straight. Alternate sides with each repetition."
+    },
+    {
+        "bodyPart": "back",
+        "equipment": "band",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1BMrAFgXoZ63xalnCOs2g7z4IcRW6QQGs",
+        "id": 76,
+        "name": "band shrug",
+        "target": "traps",
+        "instructions": "Stand with your feet shoulder-width apart and a resistance band under your feet. Grasp the band with both hands and shrug your shoulders up towards your ears, then lower and repeat."
+    },
+    {
+        "bodyPart": "back",
+        "equipment": "band",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1hVERFBEUsZugfk4dLmzCacmcKu47bMGB",
+        "id": 89,
+        "name": "band straight leg deadlift",
+        "target": "spine",
+        "instructions": "Stand with your feet shoulder-width apart and a resistance band under your feet. Grasp the band with both hands and keep your legs straight as you bend at the hips to lower your upper body. Return to the starting position and repeat."
+    },
+    {
+        "bodyPart": "back",
+        "equipment": "band",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1oNKTJzvzBdgs7PeYx_KstZ4eK_mvVfSX",
+        "id": 92,
+        "name": "band underhand pulldown",
+        "target": "lats",
+        "instructions": "Attach a resistance band to a high anchor point. Grasp the band with an underhand grip and pull it down towards your chest, keeping your elbows close to your body."
+    },
+    {
+        "bodyPart": "back",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1FqncmH5y6e1bwPzT0JeiIsVhNDlnj0ZO",
+        "id": 101,
+        "name": "barbell bent arm pullover",
+        "target": "lats",
+        "instructions": "Lie on a bench with a barbell held above your chest. Lower the barbell over your head with bent arms, then pull it back to the starting position."
+    },
+    {
+        "bodyPart": "back",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1JBnh-LXZk3BlhhvHsvAB7jDoEdAfdmQm",
+        "id": 102,
+        "name": "barbell bent over row",
+        "target": "upper back",
+        "instructions": "Stand with your feet shoulder-width apart and a barbell in your hands. Bend at the hips and knees, keeping your back straight. Pull the barbell towards your waist, then lower it back down and repeat."
+    }
+]

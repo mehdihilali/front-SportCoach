@@ -1,0 +1,191 @@
+[
+    {
+        "bodyPart": "shoulders",
+        "equipment": "band",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1D1Ic496PUcogcAh00WmCZgmKKxTUkqeI",
+        "id": 55,
+        "name": "band front lateral raise",
+        "target": "delts",
+        "instructions": "Stand with a resistance band secured under your feet. Grasp the band with both hands and lift your arms straight out to the sides until they are parallel to the ground. Lower and repeat."
+    },
+    {
+        "bodyPart": "shoulders",
+        "equipment": "band",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1aMa0UMbVJrYx6-HGvGAe893s4Zb9_czr",
+        "id": 56,
+        "name": "band front raise",
+        "target": "delts",
+        "instructions": "Stand with a resistance band secured under your feet. Grasp the band with both hands and lift your arms straight out in front of you until they are parallel to the ground. Lower and repeat."
+    },
+    {
+        "bodyPart": "shoulders",
+        "equipment": "band",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1tPcZ9ftw8PfyBw0YXCbf87STktpFyuYx",
+        "id": 71,
+        "name": "band reverse fly",
+        "target": "delts",
+        "instructions": "Stand with a resistance band secured under your feet. Bend over at the waist and grasp the band with both hands. Pull your arms out to the sides until they are parallel to the ground. Lower and repeat."
+    },
+    {
+        "bodyPart": "shoulders",
+        "equipment": "band",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1SymcxrgJZMIzYZNT4QQxXb2j1gQDzSVI",
+        "id": 75,
+        "name": "band shoulder press",
+        "target": "delts",
+        "instructions": "Stand with a resistance band secured under your feet. Grasp the band with both hands at shoulder height. Press the band overhead until your arms are fully extended. Lower and repeat."
+    },
+    {
+        "bodyPart": "shoulders",
+        "equipment": "band",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1jWmAnlt39NaOkzrBODBVqNnfgGfWg_nB",
+        "id": 84,
+        "name": "band standing rear delt row",
+        "target": "delts",
+        "instructions": "Stand with a resistance band secured under your feet. Grasp the band with both hands and pull your elbows back, squeezing your shoulder blades together. Lower and repeat."
+    },
+    {
+        "bodyPart": "shoulders",
+        "equipment": "band",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1cuBzbDREXWPXODFkllzhSc0t7rrUPamv",
+        "id": 90,
+        "name": "band twisting overhead press",
+        "target": "delts",
+        "instructions": "Stand with a resistance band secured under your feet. Grasp the band with both hands at shoulder height. Press the band overhead while twisting your torso to one side. Return to the starting position and repeat on the other side."
+    },
+    {
+        "bodyPart": "shoulders",
+        "equipment": "band",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1ZV5r2oHfqNQMwqdNLO2AY3JxcoKi2GBS",
+        "id": 96,
+        "name": "band y-raise",
+        "target": "delts",
+        "instructions": "Stand with a resistance band secured under your feet. Grasp the band with both hands and lift your arms into a 'Y' shape until they are parallel to the ground. Lower and repeat."
+    },
+    {
+        "bodyPart": "shoulders",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=16kqN16DlcWEF8UeSNxKnXh2YeuxEPyN-",
+        "id": 118,
+        "name": "barbell front raise",
+        "target": "delts",
+        "instructions": "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip. Lift the barbell straight out in front of you until your arms are parallel to the ground. Lower and repeat."
+    },
+    {
+        "bodyPart": "shoulders",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1_TvwAVLFMuTDHK45oMR2IwN5Aqcdcm5G",
+        "id": 154,
+        "name": "barbell one arm snatch",
+        "target": "delts",
+        "instructions": "Stand with your feet shoulder-width apart and hold a barbell with one hand. Quickly lift the barbell overhead in one motion. Lower and repeat."
+    },
+    {
+        "bodyPart": "shoulders",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1-VKMcjraQT2CnL55-p07kwk8xew-9kls",
+        "id": 167,
+        "name": "barbell rear delt raise",
+        "target": "delts",
+        "instructions": "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip. Bend over at the waist and lift the barbell out to the sides until your arms are parallel to the ground. Lower and repeat."
+    },
+    {
+        "bodyPart": "shoulders",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1jvLg4ngi1dTjld9HU5upWWu5bRvVthgi",
+        "id": 168,
+        "name": "barbell rear delt row",
+        "target": "delts",
+        "instructions": "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip. Bend over at the waist and pull the barbell towards your chest, squeezing your shoulder blades together. Lower and repeat."
+    },
+    {
+        "bodyPart": "shoulders",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1oCiMVM6AYHt7MV-sW-1D488gHQV_hcCM",
+        "id": 184,
+        "name": "barbell seated behind head military press",
+        "target": "delts",
+        "instructions": "Sit on a bench with a barbell held behind your head. Press the barbell overhead until your arms are fully extended. Lower and repeat."
+    },
+    {
+        "bodyPart": "shoulders",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=16vCq8IuHU1PURObCUXtHZLYa_Sv73jvv",
+        "id": 185,
+        "name": "barbell seated bradford rocky press",
+        "target": "delts",
+        "instructions": "Sit on a bench with a barbell held at shoulder height. Press the barbell overhead and lower it behind your head. Press it overhead again and lower it in front of your head. Repeat."
+    },
+    {
+        "bodyPart": "shoulders",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1J1_HiBAI3QW_0x4YxxjMrpqhwNiJSLgk",
+        "id": 191,
+        "name": "barbell seated overhead press",
+        "target": "delts",
+        "instructions": "Sit on a bench with a barbell held at shoulder height. Press the barbell overhead until your arms are fully extended. Lower and repeat."
+    },
+    {
+        "bodyPart": "shoulders",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1N51quxVnn_h3AKagsljcz2OncTVK83HX",
+        "id": 202,
+        "name": "barbell skier",
+        "target": "delts",
+        "instructions": "Stand with your feet shoulder-width apart and hold a barbell with both hands. Swing the barbell forward and backward in a controlled motion. Repeat."
+    },
+    {
+        "bodyPart": "shoulders",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1qZhQIKeYGOWw02iZP8WQzcLCBV9HjGYt",
+        "id": 209,
+        "name": "barbell standing bradford press",
+        "target": "delts",
+        "instructions": "Stand with your feet shoulder-width apart and hold a barbell at shoulder height. Press the barbell overhead and lower it behind your head. Press it overhead again and lower it in front of your head. Repeat."
+    },
+    {
+        "bodyPart": "shoulders",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1nByBdustdJ9oi1BuusqqeK3i50898khc",
+        "id": 212,
+        "name": "barbell standing close grip military press",
+        "target": "delts",
+        "instructions": "Stand with your feet shoulder-width apart and hold a barbell with a close grip. Press the barbell overhead until your arms are fully extended. Lower and repeat."
+    },
+    {
+        "bodyPart": "shoulders",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1SedCUvt7wQK0rNokdFSTvXZXWvRvbvUq",
+        "id": 214,
+        "name": "barbell standing front raise over head",
+        "target": "delts",
+        "instructions": "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip. Lift the barbell straight out in front of you until it is overhead. Lower and repeat."
+    },
+    {
+        "bodyPart": "shoulders",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1mGxvKKYrdsOZ8DNfXPQt4QRsaQENXfkJ",
+        "id": 221,
+        "name": "barbell standing wide military press",
+        "target": "delts",
+        "instructions": "Stand with your feet shoulder-width apart and hold a barbell with a wide grip. Press the barbell overhead until your arms are fully extended. Lower and repeat."
+    },
+    {
+        "bodyPart": "shoulders",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1JUEmRyWlA9BTEUEXMdCaY6WrTvzMXge_",
+        "id": 227,
+        "name": "barbell thruster",
+        "target": "delts",
+        "instructions": "Stand with your feet shoulder-width apart and hold a barbell at shoulder height. Lower into a squat and then quickly press the barbell overhead as you stand up. Lower and repeat."
+    },
+    {
+        "bodyPart": "shoulders",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1yhF-wqf1_aLCnaa_31HJ1zwtC7DqvRwC",
+        "id": 228,
+        "name": "barbell upright row",
+        "target": "delts",
+        "instructions": "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip. Lift the barbell straight up to your chest, keeping your elbows high. Lower and repeat."
+    }
+]

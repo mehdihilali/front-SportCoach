@@ -1,0 +1,209 @@
+[
+    {
+        "bodyPart": "lower legs",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1fHogLPDr93Z8U0yE5Q1luPKll0YfBxuD",
+        "id": 7,
+        "name": "ankle circles",
+        "target": "calves",
+        "instructions": "Sit on the ground with your legs extended. Lift one foot off the ground and rotate your ankle in a circular motion. Repeat in the opposite direction."
+    },
+    {
+        "bodyPart": "lower legs",
+        "equipment": "assisted",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1u18A4xJjtHDAlzSNyELOpAop6jga_M_j",
+        "id": 17,
+        "name": "assisted lying calves stretch",
+        "target": "calves",
+        "instructions": "Lie on your back with one leg extended. Use a resistance band or a partner to pull your toes towards you, stretching your calf. Hold the position and repeat on the other leg."
+    },
+    {
+        "bodyPart": "lower legs",
+        "equipment": "band",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1NzIZ90ap4fGRrdu75MDCM0_NN4DtPIxo",
+        "id": 78,
+        "name": "band single leg calf raise",
+        "target": "calves",
+        "instructions": "Stand with a resistance band secured under one foot. Grasp the band and raise your heel off the ground, then lower and repeat. Switch to the other leg."
+    },
+    {
+        "bodyPart": "lower legs",
+        "equipment": "band",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1e8nXNaWTMn6rqIuNjw1viWlBcxAMiMd9",
+        "id": 79,
+        "name": "band single leg reverse calf raise",
+        "target": "calves",
+        "instructions": "Stand with a resistance band secured under one foot. Grasp the band and lift the front of your foot off the ground, then lower and repeat. Switch to the other leg."
+    },
+    {
+        "bodyPart": "lower legs",
+        "equipment": "band",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1D-Wk9GRhXTiJFvPAsugILOcmMuLV8B9K",
+        "id": 91,
+        "name": "band two legs calf raise - (band under both legs) v. 2",
+        "target": "calves",
+        "instructions": "Stand with a resistance band secured under both feet. Grasp the band and raise your heels off the ground, then lower and repeat."
+    },
+    {
+        "bodyPart": "lower legs",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1dHRyyzlUv6nRYuq_QbWXzwBVNsmDiKg8",
+        "id": 116,
+        "name": "barbell floor calf raise",
+        "target": "calves",
+        "instructions": "Stand with a barbell across your shoulders. Raise your heels off the ground, then lower and repeat."
+    },
+    {
+        "bodyPart": "lower legs",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1TJFthEEAU51JhiIUNruXe6OFv0sxa1Bj",
+        "id": 186,
+        "name": "barbell seated calf raise",
+        "target": "calves",
+        "instructions": "Sit on a bench with a barbell across your thighs. Raise your heels off the ground, then lower and repeat."
+    },
+    {
+        "bodyPart": "lower legs",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1utqWwDqHsQC3vxDBnwdjXguMQc3W_0ZF",
+        "id": 187,
+        "name": "barbell seated calf raise",
+        "target": "calves",
+        "instructions": "Sit on a bench with a barbell across your thighs. Raise your heels off the ground, then lower and repeat."
+    },
+    {
+        "bodyPart": "lower legs",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1YgMSfCEC7J74AnrjIRZF8_Vh4_DWYDXj",
+        "id": 210,
+        "name": "barbell standing calf raise",
+        "target": "calves",
+        "instructions": "Stand with a barbell across your shoulders. Raise your heels off the ground, then lower and repeat."
+    },
+    {
+        "bodyPart": "lower legs",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1ULcGEzR4WqwJQ8B5HioB10OYed6Vc4UY",
+        "id": 215,
+        "name": "barbell standing leg calf raise",
+        "target": "calves",
+        "instructions": "Stand with a barbell across your shoulders. Raise your heels off the ground, then lower and repeat."
+    },
+    {
+        "bodyPart": "lower legs",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1R_B__OwOjs5bKxTL9T1Lw_g36ix0s-X7",
+        "id": 218,
+        "name": "barbell standing rocking leg calf raise",
+        "target": "calves",
+        "instructions": "Stand with a barbell across your shoulders. Rock forward onto your toes, then rock back onto your heels. Repeat."
+    },
+    {
+        "bodyPart": "lower legs",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1iihPcRWi2Io-PtWc4owNJYMbETEkCmM8",
+        "id": 257,
+        "name": "bodyweight standing calf raise",
+        "target": "calves",
+        "instructions": "Stand with your feet shoulder-width apart. Raise your heels off the ground, then lower and repeat."
+    },
+    {
+        "bodyPart": "lower legs",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=16JOM5yD8sQAGAz5Cw_9ZcSqrzXhRaetR",
+        "id": 265,
+        "name": "box jump down with one leg stabilization",
+        "target": "calves",
+        "instructions": "Stand on a box with one foot. Jump down and land on one foot, stabilizing yourself. Repeat on the other leg."
+    },
+    {
+        "bodyPart": "lower legs",
+        "equipment": "cable",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1KeDJbY0B2-X8b9hMa2GdDO_XOsUYSC2M",
+        "id": 389,
+        "name": "cable standing calf raise",
+        "target": "calves",
+        "instructions": "Stand with a cable machine set to a low position. Grasp the handle and raise your heels off the ground, then lower and repeat."
+    },
+    {
+        "bodyPart": "lower legs",
+        "equipment": "cable",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1pXZB5RpealOAanItmxPjvb6yOZJ2h9bu",
+        "id": 398,
+        "name": "cable standing one leg calf raise",
+        "target": "calves",
+        "instructions": "Stand with a cable machine set to a low position. Grasp the handle and raise one heel off the ground, then lower and repeat. Switch to the other leg."
+    },
+    {
+        "bodyPart": "lower legs",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1757o0Nl2iHkP8CN8Gcuu9_EXo4_Lmnz4",
+        "id": 425,
+        "name": "calf push stretch with hands against wall",
+        "target": "calves",
+        "instructions": "Stand facing a wall with your hands against it. Push against the wall and step one foot back, keeping your heel on the ground. Hold the stretch and repeat on the other leg."
+    },
+    {
+        "bodyPart": "lower legs",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1MnjxanWOobdOq1SVIuFy57QN_kMJ-3ZO",
+        "id": 426,
+        "name": "calf stretch with hands against wall",
+        "target": "calves",
+        "instructions": "Stand facing a wall with your hands against it. Push against the wall and step one foot back, keeping your heel on the ground. Hold the stretch and repeat on the other leg."
+    },
+    {
+        "bodyPart": "lower legs",
+        "equipment": "rope",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1PJ36HYHapC5T0YOSklgyx0a7poDJrT5C",
+        "id": 427,
+        "name": "calf stretch with rope",
+        "target": "calves",
+        "instructions": "Sit on the ground with your legs extended. Loop a rope around one foot and pull your toes towards you, stretching your calf. Hold the position and repeat on the other leg."
+    },
+    {
+        "bodyPart": "lower legs",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1oQibiSWOgYaiEN897NnsnJ8-pac8CLLN",
+        "id": 439,
+        "name": "circles knee stretch",
+        "target": "calves",
+        "instructions": "Stand with your feet shoulder-width apart. Bend your knees slightly and make circular motions with your knees, then reverse the direction."
+    },
+    {
+        "bodyPart": "lower legs",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=16TGa4g6alL-3kAPzKWU7WDeG9qgCWfJP",
+        "id": 461,
+        "name": "donkey calf raise",
+        "target": "calves",
+        "instructions": "Place your hands on a bench and bend at the waist. Raise your heels off the ground, then lower and repeat."
+    },
+    {
+        "bodyPart": "lower legs",
+        "equipment": "dumbbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1q8cw56lcvlEtGLs3yF_ILkwnJBsq-1BA",
+        "id": 669,
+        "name": "dumbbell calf jump",
+        "target": "calves",
+        "instructions": "Hold a dumbbell in each hand and stand with your feet shoulder-width apart. Jump and raise your heels off the ground, then lower and repeat."
+    },
+    {
+        "bodyPart": "lower legs",
+        "equipment": "dumbbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=19r2oeX-jTEHF8o-YLHCZC3PDv7Xe63UL",
+        "id": 670,
+        "name": "dumbbell calf raise",
+        "target": "calves",
+        "instructions": "Hold a dumbbell in each hand and stand with your feet shoulder-width apart. Raise your heels off the ground, then lower and repeat."
+    },
+    {
+        "bodyPart": "lower legs",
+        "equipment": "dumbbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1Yp1oSsaMh2Gyh3mUTl8it5ZMDpDAtrB0",
+        "id": 671,
+        "name": "dumbbell standing calf raise",
+        "target": "calves",
+        "instructions": "Hold a dumbbell in each hand and stand with your feet shoulder-width apart. Raise your heels off the ground, then lower and repeat."
+    }
+]

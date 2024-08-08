@@ -1,0 +1,182 @@
+[
+    {
+        "bodyPart": "chest",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=15gP9z2a020u075lH5AO2MWHLetBH1rE_",
+        "id": 9,
+        "name": "archer push up",
+        "target": "pectorals",
+        "instructions": "Start in a push-up position with your hands wider than shoulder-width. Lower your body to one side, bending one elbow while keeping the other arm straight. Push back up to the starting position and repeat on the other side."
+    },
+    {
+        "bodyPart": "chest",
+        "equipment": "leverage machine",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1Lsy7iMQ_z9n_pzPZhnhOcqMdhWcagX5s",
+        "id": 14,
+        "name": "assisted chest dip (kneeling)",
+        "target": "pectorals",
+        "instructions": "Use an assisted dip machine. Kneel on the platform and grasp the handles. Lower your body by bending your elbows, then push back up to the starting position."
+    },
+    {
+        "bodyPart": "chest",
+        "equipment": "assisted",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1Sz_RGVp33E5ag9fPPBFa7NXTweNDs_aR",
+        "id": 28,
+        "name": "assisted seated pectoralis major stretch with stability ball",
+        "target": "pectorals",
+        "instructions": "Sit on a stability ball with your feet flat on the ground. Lean back and open your arms wide, letting the stability ball support your upper back and stretch your chest."
+    },
+    {
+        "bodyPart": "chest",
+        "equipment": "leverage machine",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1AL344X96idx5Rmfs_WkKAnGoujJZdWQC",
+        "id": 35,
+        "name": "assisted wide-grip chest dip (kneeling)",
+        "target": "pectorals",
+        "instructions": "Use an assisted dip machine. Kneel on the platform and grasp the handles with a wide grip. Lower your body by bending your elbows, then push back up to the starting position."
+    },
+    {
+        "bodyPart": "chest",
+        "equipment": "band",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1rJb-cKRFWORRX-DQ9zFtHGUAuAOsGEZb",
+        "id": 47,
+        "name": "band bench press",
+        "target": "pectorals",
+        "instructions": "Lie on a bench with a resistance band under your back. Grasp the band with both hands and press it up towards the ceiling, then lower it back down and repeat."
+    },
+    {
+        "bodyPart": "chest",
+        "equipment": "band",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1Z_hn2bJpzFsBFHqR2pLOkDiFhO9Nn1BB",
+        "id": 67,
+        "name": "band one arm twisting chest press",
+        "target": "pectorals",
+        "instructions": "Attach a resistance band to a high anchor point. Stand with your feet shoulder-width apart and grasp the band with one hand. Press the band forward while twisting your torso, then return to the starting position and repeat on the other side."
+    },
+    {
+        "bodyPart": "chest",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1_VZwWm-Zj9snXeAFZFwKycAcQ3sAVbo_",
+        "id": 99,
+        "name": "barbell bench press",
+        "target": "pectorals",
+        "instructions": "Lie on a bench with your feet flat on the ground. Grasp a barbell with a shoulder-width grip and lower it to your chest. Press the barbell back up to the starting position and repeat."
+    },
+    {
+        "bodyPart": "chest",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1ukzHjigGA1DLtUisZ_gYUm1RvL6vv_mC",
+        "id": 109,
+        "name": "barbell decline bench press",
+        "target": "pectorals",
+        "instructions": "Lie on a decline bench with your feet secured. Grasp a barbell with a shoulder-width grip and lower it to your chest. Press the barbell back up to the starting position and repeat."
+    },
+    {
+        "bodyPart": "chest",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1BY4HX4KybYlAONpLkFNjBCOnxsJYpR5j",
+        "id": 112,
+        "name": "barbell decline pullover",
+        "target": "pectorals",
+        "instructions": "Lie on a decline bench with your feet secured. Hold a barbell above your chest with straight arms. Lower the barbell over your head while keeping your arms straight, then pull it back to the starting position."
+    },
+    {
+        "bodyPart": "chest",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1YMILX8ODI8xf0oR5zZbUm5jTtvpzfal7",
+        "id": 113,
+        "name": "barbell decline wide-grip press",
+        "target": "pectorals",
+        "instructions": "Lie on a decline bench with your feet secured. Grasp a barbell with a wide grip and lower it to your chest. Press the barbell back up to the starting position and repeat."
+    },
+    {
+        "bodyPart": "chest",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=14-y1soyYYfbl43zIDftMdyNyXBQB0Y7b",
+        "id": 119,
+        "name": "barbell front raise and pullover",
+        "target": "pectorals",
+        "instructions": "Stand with your feet shoulder-width apart and hold a barbell with straight arms in front of your thighs. Raise the barbell overhead, then lower it behind your head and return to the starting position."
+    },
+    {
+        "bodyPart": "chest",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1xzEu8QGIJBX60fBNCgp5j9N7QeCtP2_Q",
+        "id": 128,
+        "name": "barbell guillotine bench press",
+        "target": "pectorals",
+        "instructions": "Lie on a bench with your feet flat on the ground. Grasp a barbell with a wide grip and lower it to your neck. Press the barbell back up to the starting position and repeat."
+    },
+    {
+        "bodyPart": "chest",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1OfCij5Yad08o7AdJG26QpJEe6Jzm76Dj",
+        "id": 131,
+        "name": "barbell incline bench press",
+        "target": "pectorals",
+        "instructions": "Lie on an incline bench with your feet flat on the ground. Grasp a barbell with a shoulder-width grip and lower it to your chest. Press the barbell back up to the starting position and repeat."
+    },
+    {
+        "bodyPart": "chest",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1SL8BMBnOkDdQfUaKmH8BUDQJeJF2Ajzg",
+        "id": 135,
+        "name": "barbell incline shoulder raise",
+        "target": "serratus anterior",
+        "instructions": "Lie on an incline bench with your feet flat on the ground. Hold a barbell above your chest with straight arms. Raise your shoulders towards your ears, then lower and repeat."
+    },
+    {
+        "bodyPart": "chest",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1SKYVgyqgxt9X4tJLgV5iDjIii-nL3fuZ",
+        "id": 175,
+        "name": "barbell reverse grip decline bench press",
+        "target": "pectorals",
+        "instructions": "Lie on a decline bench with your feet secured. Grasp a barbell with a reverse grip and lower it to your chest. Press the barbell back up to the starting position and repeat."
+    },
+    {
+        "bodyPart": "chest",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1fUQnqFH3MJ1q9LLYqB06i88fe4W31L2q",
+        "id": 176,
+        "name": "barbell reverse grip incline bench press",
+        "target": "pectorals",
+        "instructions": "Lie on an incline bench with your feet flat on the ground. Grasp a barbell with a reverse grip and lower it to your chest. Press the barbell back up to the starting position and repeat."
+    },
+    {
+        "bodyPart": "chest",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1oCfR3D4MkWBzvn1M8hC7fssMU5crO57t",
+        "id": 231,
+        "name": "barbell wide bench press",
+        "target": "pectorals",
+        "instructions": "Lie on a bench with your feet flat on the ground. Grasp a barbell with a wide grip and lower it to your chest. Press the barbell back up to the starting position and repeat."
+    },
+    {
+        "bodyPart": "chest",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1fu2sx5dZrOXBmdL5mGRdg57m_DUEpkQt",
+        "id": 232,
+        "name": "barbell wide reverse grip bench press",
+        "target": "pectorals",
+        "instructions": "Lie on a bench with your feet flat on the ground. Grasp a barbell with a wide reverse grip and lower it to your chest. Press the barbell back up to the starting position and repeat."
+    },
+    {
+        "bodyPart": "chest",
+        "equipment": "assisted",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1hd4gocK2_inco7Idcbk9LA8_QEilOWw8",
+        "id": 241,
+        "name": "behind head chest stretch",
+        "target": "pectorals",
+        "instructions": "Stand with your feet shoulder-width apart. Reach your arms behind your head and clasp your hands together. Pull your arms back to stretch your chest and hold the position."
+    },
+    {
+        "bodyPart": "chest",
+        "equipment": "cable",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1iP3v6N-gFll6lezVFN9ZCNcyBMKAULsp",
+        "id": 274,
+        "name": "cable bench press",
+        "target": "pectorals",
+        "instructions": "Lie on a bench with a cable machine on either side. Grasp the handles and press them up towards the ceiling, then lower them back down and repeat."
+    }
+]

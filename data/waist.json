@@ -1,0 +1,191 @@
+[
+  {
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "gifUrl": "https://drive.google.com/uc?export=view&id=1PHoDfO4cgeZc_o_lrlEp32Q5gT80H92o",
+    "id": 1,
+    "name": "3/4 sit-up",
+    "target": "abs",
+    "instructions": "Lie on your back with your knees bent and feet flat on the ground. Cross your arms over your chest. Perform a sit-up, but stop three-quarters of the way up. Lower back down and repeat."
+  },
+  {
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "gifUrl": "https://drive.google.com/uc?export=view&id=1x8ugn4SlLSnOQ80cHDvYyvE9u9Zsc9SU",
+    "id": 2,
+    "name": "45° side bend",
+    "target": "abs",
+    "instructions": "Stand with your feet shoulder-width apart and hands on your hips. Bend to one side at a 45° angle, then return to the starting position. Repeat on the other side."
+  },
+  {
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "gifUrl": "https://drive.google.com/uc?export=view&id=1SQbMbSjycKq2tO8xxAj1jH1KDuLA2TWT",
+    "id": 3,
+    "name": "air bike",
+    "target": "abs",
+    "instructions": "Lie on your back with your hands behind your head and legs lifted. Alternate touching your elbow to the opposite knee in a pedaling motion."
+  },
+  {
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "gifUrl": "https://drive.google.com/uc?export=view&id=1RB1vQCFZOZmVK1yXhqTrFM449J_PmitI",
+    "id": 5,
+    "name": "alternate heel touchers",
+    "target": "abs",
+    "instructions": "Lie on your back with your knees bent and feet flat on the ground. Alternate reaching for your heels with your hands, engaging your abs."
+  },
+  {
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "gifUrl": "https://drive.google.com/uc?export=view&id=138zPw5rYWHUkY87ONMC8lnc5NIn44cVt",
+    "id": 10,
+    "name": "arm slingers hanging bent knee legs",
+    "target": "abs",
+    "instructions": "Hang from a bar with your arms extended. Raise your knees towards your chest while keeping them bent. Lower and repeat."
+  },
+  {
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "gifUrl": "https://drive.google.com/uc?export=view&id=1CA5qSUMZxiA6zvWef1qpovbggCXkLVYC",
+    "id": 11,
+    "name": "arm slingers hanging straight legs",
+    "target": "abs",
+    "instructions": "Hang from a bar with your arms extended. Raise your legs straight out in front of you until they are parallel to the ground. Lower and repeat."
+  },
+  {
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "gifUrl": "https://drive.google.com/uc?export=view&id=1El70rM0sQygY8RJ6qcDjTo4pJvZJ5bPq",
+    "id": 13,
+    "name": "arms overhead full sit-up (male)",
+    "target": "abs",
+    "instructions": "Lie on your back with your legs extended and arms overhead. Perform a full sit-up, reaching your arms towards your feet. Lower back down and repeat."
+  },
+  {
+    "bodyPart": "waist",
+    "equipment": "assisted",
+    "gifUrl": "https://drive.google.com/uc?export=view&id=1tzBSVlZDsDXUEo32RaZRh_6bLB06NKQP",
+    "id": 15,
+    "name": "assisted hanging knee raise",
+    "target": "abs",
+    "instructions": "Hang from a bar with your arms extended. Use arm slings to support your weight. Raise your knees towards your chest while keeping them bent. Lower and repeat."
+  },
+  {
+    "bodyPart": "waist",
+    "equipment": "assisted",
+    "gifUrl": "https://drive.google.com/uc?export=view&id=1lyWR8SzRvaUPti9yoYTrU864ZgjcuJeK",
+    "id": 16,
+    "name": "assisted hanging knee raise with throw down",
+    "target": "abs",
+    "instructions": "Hang from a bar with your arms extended. Use arm slings to support your weight. Raise your knees towards your chest while keeping them bent. Have a partner gently push your legs back down. Repeat."
+  },
+  {
+    "bodyPart": "waist",
+    "equipment": "assisted",
+    "gifUrl": "https://drive.google.com/uc?export=view&id=10pgWcLPVUqNhR_V5yPRmXb75jtG3IZ1I",
+    "id": 20,
+    "name": "assisted lying leg raise with lateral throw down",
+    "target": "abs",
+    "instructions": "Lie on your back with your legs extended and a partner standing by your side. Raise your legs towards the ceiling, then have your partner gently push them to one side. Return to the starting position and repeat on the other side."
+  },
+  {
+    "bodyPart": "waist",
+    "equipment": "assisted",
+    "gifUrl": "https://drive.google.com/uc?export=view&id=11d8pBSrEPQpggFuUpQrNWpJtUHhoHtvI",
+    "id": 21,
+    "name": "assisted lying leg raise with throw down",
+    "target": "abs",
+    "instructions": "Lie on your back with your legs extended and a partner standing by your feet. Raise your legs towards the ceiling, then have your partner gently push them back down. Repeat."
+  },
+  {
+    "bodyPart": "waist",
+    "equipment": "medicine ball",
+    "gifUrl": "https://drive.google.com/uc?export=view&id=1g9i8P_h68wUMAiJzXdVA8abrKx_eyYJN",
+    "id": 22,
+    "name": "assisted motion russian twist",
+    "target": "abs",
+    "instructions": "Sit on the ground with your knees bent and feet flat. Hold a medicine ball in front of you. Rotate your torso to one side, then the other, keeping your core engaged."
+  },
+  {
+    "bodyPart": "waist",
+    "equipment": "assisted",
+    "gifUrl": "https://drive.google.com/uc?export=view&id=1iav8OufS-Zip2KJ9Nbt-HwHhsEKOA0CP",
+    "id": 26,
+    "name": "assisted prone rectus femoris stretch",
+    "target": "abs",
+    "instructions": "Lie face down with one leg bent at the knee. Have a partner gently lift your bent leg, stretching the rectus femoris muscle. Hold and repeat on the other side."
+  },
+  {
+    "bodyPart": "waist",
+    "equipment": "assisted",
+    "gifUrl": "https://drive.google.com/uc?export=view&id=1tdxKldsO3Ylspffe4PhsKCWqy2kQwtKJ",
+    "id": 30,
+    "name": "assisted sit-up",
+    "target": "abs",
+    "instructions": "Lie on your back with your knees bent and feet flat on the ground. Have a partner hold your feet or legs for support. Perform a sit-up, then lower back down and repeat."
+  },
+  {
+    "bodyPart": "waist",
+    "equipment": "band",
+    "gifUrl": "https://drive.google.com/uc?export=view&id=1xFFPVlZlGrV5RE9vPLYuBznhQghA_SBf",
+    "id": 44,
+    "name": "band alternating v-up",
+    "target": "abs",
+    "instructions": "Lie on your back with a resistance band around your feet. Alternate lifting one leg towards your chest while keeping the other leg extended. Return to the starting position and repeat on the other side."
+  },
+  {
+    "bodyPart": "waist",
+    "equipment": "band",
+    "gifUrl": "https://drive.google.com/uc?export=view&id=1UUI_3Lzm7JRdbu0bPISrPHi3tohFTIPI",
+    "id": 46,
+    "name": "band assisted wheel rollerout",
+    "target": "abs",
+    "instructions": "Kneel on the ground with a resistance band around your waist and attached to a stable object behind you. Hold an ab wheel and roll forward, extending your body. Return to the starting position and repeat."
+  },
+  {
+    "bodyPart": "waist",
+    "equipment": "band",
+    "gifUrl": "https://drive.google.com/uc?export=view&id=1HvPOHwZYQsvFoqERpJ5QAQT7s5W8iWiW",
+    "id": 49,
+    "name": "band bicycle crunch",
+    "target": "abs",
+    "instructions": "Lie on your back with a resistance band around your feet. Alternate touching your elbow to the opposite knee in a pedaling motion."
+  },
+  {
+    "bodyPart": "waist",
+    "equipment": "band",
+    "gifUrl": "https://drive.google.com/uc?export=view&id=1XSXPZ0rU0xdpRu-mG_6T-8VGDvliXXtS",
+    "id": 58,
+    "name": "band horizontal pallof press",
+    "target": "abs",
+    "instructions": "Stand with your feet shoulder-width apart and a resistance band anchored to one side. Hold the band with both hands and press it straight out in front of you, keeping your core engaged. Return to the starting position and repeat."
+  },
+  {
+    "bodyPart": "waist",
+    "equipment": "band",
+    "gifUrl": "https://drive.google.com/uc?export=view&id=1ImGJUyK_O6gQ3B1rGYC5WHP4OnnXQOMS",
+    "id": 59,
+    "name": "band jack knife sit-up",
+    "target": "abs",
+    "instructions": "Lie on your back with a resistance band around your feet. Perform a sit-up, bringing your legs and torso towards each other, then lower back down and repeat."
+  },
+  {
+    "bodyPart": "waist",
+    "equipment": "band",
+    "gifUrl": "https://drive.google.com/uc?export=view&id=1-uIb4LFw0MYkhy3g6xvSylXn_OknmLFv",
+    "id": 61,
+    "name": "band kneeling twisting crunch",
+    "target": "abs",
+    "instructions": "Kneel on the ground with a resistance band anchored to one side. Hold the band with both hands and perform a crunch, twisting your torso to one side. Return to the starting position and repeat on the other side."
+  },
+  {
+    "bodyPart": "waist",
+    "equipment": "band",
+    "gifUrl": "https://drive.google.com/uc?export=view&id=110Klhs8qwoEKiNbQdMcityS8-6unRwX6",
+    "id": 63,
+    "name": "band lying straight leg raise",
+    "target": "abs",
+    "instructions": "Lie on your back with a resistance band around your feet. Keep your legs straight and lift them towards the ceiling, then lower back down and repeat."
+  }
+]

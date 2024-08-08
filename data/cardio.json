@@ -1,0 +1,200 @@
+[
+    {
+        "bodyPart": "cardio",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=15Ku2cA9BuvMW_aM8GuasNiLf2rmLLS77",
+        "id": 36,
+        "name": "astride jumps (male)",
+        "target": "cardiovascular system",
+        "instructions": "Stand with your feet together and your hands by your sides. Jump into the air, spreading your legs out and bringing your hands together above your head. Return to the starting position and repeat."
+    },
+    {
+        "bodyPart": "cardio",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1VNJlUTrh-NBa-GkJ7yt7DMK3_mXVQJCl",
+        "id": 37,
+        "name": "back and forth step",
+        "target": "cardiovascular system",
+        "instructions": "Stand upright with feet shoulder-width apart. Step forward with one foot, then step back to the starting position. Repeat with the other foot."
+    },
+    {
+        "bodyPart": "cardio",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1iJZ2AF7fxA4bTpAfteqDWo-TEaizeUvB",
+        "id": 240,
+        "name": "bear crawl",
+        "target": "cardiovascular system",
+        "instructions": "Start on all fours with your hands and feet on the ground. Move forward by simultaneously moving your right hand and left foot, then your left hand and right foot."
+    },
+    {
+        "bodyPart": "cardio",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1LAoT1PPZdhdhIvXSVWz4OFBUCwDv23dW",
+        "id": 267,
+        "name": "burpee",
+        "target": "cardiovascular system",
+        "instructions": "Start in a standing position, then drop into a squat with your hands on the ground. Kick your feet back into a plank position, perform a push-up, then jump back to the squat position and jump into the air."
+    },
+    {
+        "bodyPart": "cardio",
+        "equipment": "leverage machine",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1ajZpvaZMbwBBIB0IcNWPOXYbUMs_ml0_",
+        "id": 454,
+        "name": "cycle cross trainer",
+        "target": "cardiovascular system",
+        "instructions": "Stand on the machine with your feet on the pedals and hands on the handles. Push and pull the handles while pedaling to simulate cycling."
+    },
+    {
+        "bodyPart": "cardio",
+        "equipment": "dumbbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1YM-fQ8X-SfiVAd-bvMJUCkLhgqrTvzS-",
+        "id": 486,
+        "name": "dumbbell burpee",
+        "target": "cardiovascular system",
+        "instructions": "Hold a dumbbell in each hand and start in a standing position. Drop into a squat with the dumbbells on the ground, kick your feet back into a plank position, perform a push-up, then jump back to the squat position and lift the dumbbells as you jump into the air."
+    },
+    {
+        "bodyPart": "cardio",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1cCQMDUC8llavh1r3TTXMvDGd223zmKjO",
+        "id": 822,
+        "name": "half knee bends (male)",
+        "target": "cardiovascular system",
+        "instructions": "Stand with your feet shoulder-width apart. Bend your knees to lower your body halfway to the ground, then return to the starting position."
+    },
+    {
+        "bodyPart": "cardio",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1LpZIig5Y00mPZdj-jMy-LqW5jVz7NTOE",
+        "id": 837,
+        "name": "high knee against wall",
+        "target": "cardiovascular system",
+        "instructions": "Stand facing a wall and place your hands on it for support. Alternately lift your knees as high as possible while maintaining balance."
+    },
+    {
+        "bodyPart": "cardio",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=14IDJEV0ynhgWJVaBh-BBdIWzQgN79qFQ",
+        "id": 865,
+        "name": "jack burpee",
+        "target": "cardiovascular system",
+        "instructions": "Start in a standing position, then drop into a squat with your hands on the ground. Kick your feet back into a plank position, perform a jumping jack with your feet, then jump back to the squat position and jump into the air."
+    },
+    {
+        "bodyPart": "cardio",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1RYV4MVgdkYDSft_OVI-qKf17VD2As7mY",
+        "id": 866,
+        "name": "jack jump (male)",
+        "target": "cardiovascular system",
+        "instructions": "Stand with your feet together and hands by your sides. Jump into the air, spreading your legs out and bringing your hands together above your head. Return to the starting position and repeat."
+    },
+    {
+        "bodyPart": "cardio",
+        "equipment": "rope",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1vQJzUA0mD8tnP8oYx7A4bamSKUxe97pP",
+        "id": 869,
+        "name": "jump rope",
+        "target": "cardiovascular system",
+        "instructions": "Hold the rope handles and stand with the rope behind you. Swing the rope over your head and jump as it passes under your feet. Repeat continuously."
+    },
+    {
+        "bodyPart": "cardio",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=12aGRbMn_g2EAdLqJmYyMDWJcbTXrktjo",
+        "id": 1024,
+        "name": "mountain climber",
+        "target": "cardiovascular system",
+        "instructions": "Start in a plank position with your hands on the ground. Alternately bring your knees towards your chest in a running motion while keeping your hands in place."
+    },
+    {
+        "bodyPart": "cardio",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1RH9hbCSUAxS9kSlCMZp-px2-DYuXConV",
+        "id": 1062,
+        "name": "push to run",
+        "target": "cardiovascular system",
+        "instructions": "Start in a standing position, then drop into a push-up position. Perform a push-up, then quickly return to standing and sprint in place for a few seconds."
+    },
+    {
+        "bodyPart": "cardio",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1NuNX7hI9AayEF-PTI9sq6wcNhbspGx9l",
+        "id": 1110,
+        "name": "run",
+        "target": "cardiovascular system",
+        "instructions": "Run in place or around a designated area, maintaining a steady pace and good posture."
+    },
+    {
+        "bodyPart": "cardio",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1NPLzuVM4raiweILcqMUCqgpBoMANWpez",
+        "id": 1111,
+        "name": "run (equipment)",
+        "target": "cardiovascular system",
+        "instructions": "Use a treadmill or other running equipment to run at a steady pace, adjusting the speed and incline as needed."
+    },
+    {
+        "bodyPart": "cardio",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1cHsrsMyMfFAS_R-FdXkXgZ2IMj1VD5kw",
+        "id": 1117,
+        "name": "scissor jumps (male)",
+        "target": "cardiovascular system",
+        "instructions": "Stand with your feet together and your hands by your sides. Jump into the air, crossing one leg in front of the other, then return to the starting position and repeat."
+    },
+    {
+        "bodyPart": "cardio",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=11S8xsB8lAM49RHn8b4vOoHbPl0EW0oc0",
+        "id": 1128,
+        "name": "semi squat jump (male)",
+        "target": "cardiovascular system",
+        "instructions": "Stand with your feet shoulder-width apart. Bend your knees to lower your body halfway to the ground, then jump into the air and land softly in the squat position."
+    },
+    {
+        "bodyPart": "cardio",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1CC_mI2gq5dsTqc-i5g7GVXi5CteuV4il",
+        "id": 1129,
+        "name": "short stride run",
+        "target": "cardiovascular system",
+        "instructions": "Run with short, quick strides, maintaining a steady pace and good posture."
+    },
+    {
+        "bodyPart": "cardio",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1qIn46Z_8QO7Xj8N6-o1ZV7-jtn9NKUDL",
+        "id": 1153,
+        "name": "skater hops",
+        "target": "cardiovascular system",
+        "instructions": "Stand with your feet together and hands by your sides. Jump to the right, landing on your right foot while bringing your left foot behind you. Repeat on the other side."
+    },
+    {
+        "bodyPart": "cardio",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1r2yYe6fOJToXzxyYZjcHEDWZDlNHy-73",
+        "id": 1155,
+        "name": "ski step",
+        "target": "cardiovascular system",
+        "instructions": "Stand with your feet together and hands by your sides. Jump to the right, landing on your right foot while swinging your left foot behind you. Repeat on the other side."
+    },
+    {
+        "bodyPart": "cardio",
+        "equipment": "body weight",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=10aHOYJLLC9pIfPkGmu0n0jgVbWb8eacz",
+        "id": 1242,
+        "name": "star jump (male)",
+        "target": "cardiovascular system",
+        "instructions": "Stand with your feet together and hands by your sides. Jump into the air, spreading your legs out and bringing your hands together above your head. Return to the starting position and repeat."
+    },
+    {
+        "bodyPart": "cardio",
+        "equipment": "stationary bike",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1csrjwGohiXA2hZ7ngFGQy4nLm_7iWVH2",
+        "id": 1243,
+        "name": "stationary bike run v. 3",
+        "target": "cardiovascular system",
+        "instructions": "Sit on the stationary bike and pedal at a steady pace. Adjust the resistance as needed to increase or decrease the intensity of your workout."
+    }
+]

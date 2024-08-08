@@ -1,0 +1,191 @@
+[
+    {
+        "bodyPart": "lower arms",
+        "equipment": "band",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1D4IAnEY0E9D7GMiSOEbHM9RArVhQpIbv",
+        "id": 72,
+        "name": "band reverse wrist curl",
+        "target": "forearms",
+        "instructions": "Stand with a resistance band secured under your feet. Grasp the band with an overhand grip and curl your wrists upwards, then lower and repeat."
+    },
+    {
+        "bodyPart": "lower arms",
+        "equipment": "band",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1kqowPNwjhgJmQxso2a8k5K6UpsXs6cXd",
+        "id": 95,
+        "name": "band wrist curl",
+        "target": "forearms",
+        "instructions": "Stand with a resistance band secured under your feet. Grasp the band with an underhand grip and curl your wrists upwards, then lower and repeat."
+    },
+    {
+        "bodyPart": "lower arms",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1K7yJjS47-V9a-UErGXMcpgJypRp0yccS",
+        "id": 157,
+        "name": "barbell palms down wrist curl over a bench",
+        "target": "forearms",
+        "instructions": "Sit on a bench and place your forearms on your thighs with your wrists over the edge. Hold a barbell with an overhand grip and curl your wrists upwards, then lower and repeat."
+    },
+    {
+        "bodyPart": "lower arms",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1ohgOgWnClRtP0B6Ey7hdL1kCZomEr0qo",
+        "id": 158,
+        "name": "barbell palms up wrist curl over a bench",
+        "target": "forearms",
+        "instructions": "Sit on a bench and place your forearms on your thighs with your wrists over the edge. Hold a barbell with an underhand grip and curl your wrists upwards, then lower and repeat."
+    },
+    {
+        "bodyPart": "lower arms",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=14m75KgXfEqO292B9tmV-coCbGiD9wMtL",
+        "id": 171,
+        "name": "barbell reverse wrist curl v. 2",
+        "target": "forearms",
+        "instructions": "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip. Curl your wrists upwards, then lower and repeat."
+    },
+    {
+        "bodyPart": "lower arms",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=14gGlbxDUV75wmxYCRg74gUdnUXJOe7SD",
+        "id": 180,
+        "name": "barbell reverse wrist curl",
+        "target": "forearms",
+        "instructions": "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip. Curl your wrists upwards, then lower and repeat."
+    },
+    {
+        "bodyPart": "lower arms",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1tJBbtu6d8dr6e3282ch7FdrOXCYCBxG1",
+        "id": 208,
+        "name": "barbell standing back wrist curl",
+        "target": "forearms",
+        "instructions": "Stand with your feet shoulder-width apart and hold a barbell behind your back with an overhand grip. Curl your wrists upwards, then lower and repeat."
+    },
+    {
+        "bodyPart": "lower arms",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1yzjtwlAPOfxpCHfPw8OgtPFU6KyO1OS0",
+        "id": 235,
+        "name": "barbell wrist curl",
+        "target": "forearms",
+        "instructions": "Stand with your feet shoulder-width apart and hold a barbell with an underhand grip. Curl your wrists upwards, then lower and repeat."
+    },
+    {
+        "bodyPart": "lower arms",
+        "equipment": "barbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1TBLMYphUoEGN5u7v8kQCWuNAD56BJY5q",
+        "id": 236,
+        "name": "barbell wrist curl v. 2",
+        "target": "forearms",
+        "instructions": "Stand with your feet shoulder-width apart and hold a barbell with an underhand grip. Curl your wrists upwards, then lower and repeat."
+    },
+    {
+        "bodyPart": "lower arms",
+        "equipment": "cable",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1Lk0RMwUtJSjEHXfCZbjvBArRp5a3DHOC",
+        "id": 356,
+        "name": "cable reverse wrist curl",
+        "target": "forearms",
+        "instructions": "Stand with a cable machine set to a low position. Grasp the handle with an overhand grip and curl your wrist upwards, then lower and repeat."
+    },
+    {
+        "bodyPart": "lower arms",
+        "equipment": "cable",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1GjDndYb5i9GmOovo8w7a61eDyyjyNm8d",
+        "id": 388,
+        "name": "cable standing back wrist curl",
+        "target": "forearms",
+        "instructions": "Stand with a cable machine set to a low position. Grasp the handle with an underhand grip behind your back and curl your wrist upwards, then lower and repeat."
+    },
+    {
+        "bodyPart": "lower arms",
+        "equipment": "cable",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1nT7cVj2oYJdCofPNiqmfgPjhR0wvQRb2",
+        "id": 424,
+        "name": "cable wrist curl",
+        "target": "forearms",
+        "instructions": "Stand with a cable machine set to a low position. Grasp the handle with an underhand grip and curl your wrist upwards, then lower and repeat."
+    },
+    {
+        "bodyPart": "lower arms",
+        "equipment": "dumbbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1hdUPmXEB04qPxcIItJ3QV55oEJia50s1",
+        "id": 506,
+        "name": "dumbbell finger curls",
+        "target": "forearms",
+        "instructions": "Stand with your feet shoulder-width apart and hold a dumbbell in each hand. Let the dumbbells roll down to your fingers, then curl your fingers to lift the dumbbells back up."
+    },
+    {
+        "bodyPart": "lower arms",
+        "equipment": "dumbbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1V0hxftb4v9nFXiKy25_RuuG-kfkhCapM",
+        "id": 571,
+        "name": "dumbbell lying pronation",
+        "target": "forearms",
+        "instructions": "Lie on your back with a dumbbell in each hand. Rotate your wrists to turn the dumbbells from a palms-up to a palms-down position, then return and repeat."
+    },
+    {
+        "bodyPart": "lower arms",
+        "equipment": "dumbbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=144SWv7WyR1tznr0VPsR_7KQMPArodU4v",
+        "id": 572,
+        "name": "dumbbell lying pronation on floor",
+        "target": "forearms",
+        "instructions": "Lie on your back with a dumbbell in each hand. Rotate your wrists to turn the dumbbells from a palms-up to a palms-down position, then return and repeat."
+    },
+    {
+        "bodyPart": "lower arms",
+        "equipment": "dumbbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1c5dfD_M-jUVYhzZvRjzDiRJplwPWdltK",
+        "id": 577,
+        "name": "dumbbell lying supination",
+        "target": "forearms",
+        "instructions": "Lie on your back with a dumbbell in each hand. Rotate your wrists to turn the dumbbells from a palms-down to a palms-up position, then return and repeat."
+    },
+    {
+        "bodyPart": "lower arms",
+        "equipment": "dumbbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1_uEr7Kw_Up_tjhuOXQ6Q8yBUQvkkyl5l",
+        "id": 578,
+        "name": "dumbbell lying supination on floor",
+        "target": "forearms",
+        "instructions": "Lie on your back with a dumbbell in each hand. Rotate your wrists to turn the dumbbells from a palms-down to a palms-up position, then return and repeat."
+    },
+    {
+        "bodyPart": "lower arms",
+        "equipment": "dumbbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1Ytk-dsOlP-ZY4HdXBWTJZiydAJn-bxjq",
+        "id": 601,
+        "name": "dumbbell one arm reverse wrist curl",
+        "target": "forearms",
+        "instructions": "Sit on a bench and place your forearm on your thigh with your wrist over the edge. Hold a dumbbell with an overhand grip and curl your wrist upwards, then lower and repeat."
+    },
+    {
+        "bodyPart": "lower arms",
+        "equipment": "dumbbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1Pk7j4YKBxW1v7cywmO9cVdJNZLczUHjJ",
+        "id": 608,
+        "name": "dumbbell one arm seated neutral wrist curl",
+        "target": "forearms",
+        "instructions": "Sit on a bench and place your forearm on your thigh with your wrist over the edge. Hold a dumbbell with a neutral grip and curl your wrist upwards, then lower and repeat."
+    },
+    {
+        "bodyPart": "lower arms",
+        "equipment": "dumbbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1gTq1PFGhqTmgbjw4dYnj5ZAPae20itB8",
+        "id": 616,
+        "name": "dumbbell one arm wrist curl",
+        "target": "forearms",
+        "instructions": "Sit on a bench and place your forearm on your thigh with your wrist over the edge. Hold a dumbbell with an underhand grip and curl your wrist upwards, then lower and repeat."
+    },
+    {
+        "bodyPart": "lower arms",
+        "equipment": "dumbbell",
+        "gifUrl": "https://drive.google.com/uc?export=view&id=1Gx6j75Nb2hUAEHoyfmXSquG0drmoULDa",
+        "id": 621,
+        "name": "dumbbell over bench one arm reverse wrist curl",
+        "target": "forearms",
+        "instructions": "Sit on a bench and place your forearm on your thigh with your wrist over the edge. Hold a dumbbell with an overhand grip and curl your wrist upwards, then lower and repeat."
+    }
+]

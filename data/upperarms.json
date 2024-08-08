@@ -1,0 +1,182 @@
+[
+  {
+      "bodyPart": "upper arms",
+      "equipment": "assisted",
+      "gifUrl": "https://drive.google.com/uc?export=view&id=1urnDKG5cpg6zgo4kjlRH9x-2DothBux8",
+      "id": 33,
+      "name": "assisted standing triceps extension (with towel)",
+      "target": "triceps",
+      "instructions": "Stand with a towel held overhead. Bend your elbows and lower the towel behind your head, then extend your arms to return to the starting position. Repeat."
+  },
+  {
+      "bodyPart": "upper arms",
+      "equipment": "leverage machine",
+      "gifUrl": "https://drive.google.com/uc?export=view&id=1cyHT8i2GL4-RjJjXT0REvijk9b7F2NDo",
+      "id": 34,
+      "name": "assisted triceps dip (kneeling)",
+      "target": "triceps",
+      "instructions": "Kneel on the pad of the assisted dip machine. Grasp the handles and lower your body by bending your elbows, then push back up to the starting position. Repeat."
+  },
+  {
+      "bodyPart": "upper arms",
+      "equipment": "band",
+      "gifUrl": "https://drive.google.com/uc?export=view&id=1_Fl6J2LzIoEzMwLJNI0PGW_eCK88_GKK",
+      "id": 43,
+      "name": "band alternating biceps curl",
+      "target": "biceps",
+      "instructions": "Stand with a resistance band secured under your feet. Grasp the band with both hands and curl one arm at a time towards your shoulder. Lower and repeat with the other arm."
+  },
+  {
+      "bodyPart": "upper arms",
+      "equipment": "band",
+      "gifUrl": "https://drive.google.com/uc?export=view&id=1S1sYNOXa0Yt08eU8HfR9hYkiATSM99JR",
+      "id": 51,
+      "name": "band close-grip push-up",
+      "target": "triceps",
+      "instructions": "Wrap a resistance band around your back and hold the ends in your hands. Perform a push-up with your hands close together. Lower your body and push back up to the starting position. Repeat."
+  },
+  {
+      "bodyPart": "upper arms",
+      "equipment": "band",
+      "gifUrl": "https://drive.google.com/uc?export=view&id=1IjO6umU4g6jS_XUcNj2f6wIsr0bMO3DB",
+      "id": 52,
+      "name": "band concentration curl",
+      "target": "biceps",
+      "instructions": "Sit on a bench and secure a resistance band under your foot. Grasp the band with one hand and curl it towards your shoulder, keeping your elbow stationary. Lower and repeat with the other arm."
+  },
+  {
+      "bodyPart": "upper arms",
+      "equipment": "band",
+      "gifUrl": "https://drive.google.com/uc?export=view&id=1JtFQot7To6nruyCYux5zYmxfBcUKr9sg",
+      "id": 64,
+      "name": "band one arm overhead biceps curl",
+      "target": "biceps",
+      "instructions": "Stand with a resistance band secured under your feet. Grasp the band with one hand and curl it overhead, keeping your elbow close to your head. Lower and repeat with the other arm."
+  },
+  {
+      "bodyPart": "upper arms",
+      "equipment": "band",
+      "gifUrl": "https://drive.google.com/uc?export=view&id=1pQc2EuvFcTW_iRyNl8P4e41GpmL6Nykj",
+      "id": 77,
+      "name": "band side triceps extension",
+      "target": "triceps",
+      "instructions": "Stand with a resistance band secured under your feet. Grasp the band with one hand and extend your arm to the side, keeping your elbow stationary. Lower and repeat with the other arm."
+  },
+  {
+      "bodyPart": "upper arms",
+      "equipment": "barbell",
+      "gifUrl": "https://drive.google.com/uc?export=view&id=1-abcAInPn44UYs-5AnRsikapqj9za-Bb",
+      "id": 97,
+      "name": "barbell alternate biceps curl",
+      "target": "biceps",
+      "instructions": "Stand with your feet shoulder-width apart and hold a barbell with an underhand grip. Curl one arm at a time towards your shoulder. Lower and repeat with the other arm."
+  },
+  {
+      "bodyPart": "upper arms",
+      "equipment": "barbell",
+      "gifUrl": "https://drive.google.com/uc?export=view&id=1EMEY-RbU0APtlDD8iUz_aziFEC41e7f4",
+      "id": 103,
+      "name": "barbell biceps curl (with arm blaster)",
+      "target": "biceps",
+      "instructions": "Stand with your feet shoulder-width apart and hold a barbell with an underhand grip, using an arm blaster to keep your elbows stationary. Curl the barbell towards your shoulders. Lower and repeat."
+  },
+  {
+      "bodyPart": "upper arms",
+      "equipment": "barbell",
+      "gifUrl": "https://drive.google.com/uc?export=view&id=1AD72IAQX01mkPKKvHoYxnDXPL9QCOpWm",
+      "id": 106,
+      "name": "barbell close-grip bench press",
+      "target": "triceps",
+      "instructions": "Lie on a bench and hold a barbell with a close grip. Lower the barbell to your chest, then push it back up to the starting position. Repeat."
+  },
+  {
+      "bodyPart": "upper arms",
+      "equipment": "barbell",
+      "gifUrl": "https://drive.google.com/uc?export=view&id=1oUAD8gcWqu2JQWgijdXbO00mTuNaaAsq",
+      "id": 107,
+      "name": "barbell curl",
+      "target": "biceps",
+      "instructions": "Stand with your feet shoulder-width apart and hold a barbell with an underhand grip. Curl the barbell towards your shoulders. Lower and repeat."
+  },
+  {
+      "bodyPart": "upper arms",
+      "equipment": "barbell",
+      "gifUrl": "https://drive.google.com/uc?export=view&id=1M2pZNnpI11RGyKrzyVfAdBcGhi-4sRDn",
+      "id": 111,
+      "name": "barbell decline close grip to skull press",
+      "target": "triceps",
+      "instructions": "Lie on a decline bench and hold a barbell with a close grip. Lower the barbell to your forehead, then push it back up to the starting position. Repeat."
+  },
+  {
+      "bodyPart": "upper arms",
+      "equipment": "barbell",
+      "gifUrl": "https://drive.google.com/uc?export=view&id=1DCZGKaUrrkXnJqErIesFM3ivZNufiVY1",
+      "id": 115,
+      "name": "barbell drag curl",
+      "target": "biceps",
+      "instructions": "Stand with your feet shoulder-width apart and hold a barbell with an underhand grip. Drag the barbell up your body, keeping your elbows back. Lower and repeat."
+  },
+  {
+      "bodyPart": "upper arms",
+      "equipment": "barbell",
+      "gifUrl": "https://drive.google.com/uc?export=view&id=1CDyXBV39DI50LXyhQJaIsNmEwglD5oGe",
+      "id": 132,
+      "name": "barbell incline close grip bench press",
+      "target": "triceps",
+      "instructions": "Lie on an incline bench and hold a barbell with a close grip. Lower the barbell to your chest, then push it back up to the starting position. Repeat."
+  },
+  {
+      "bodyPart": "upper arms",
+      "equipment": "barbell",
+      "gifUrl": "https://drive.google.com/uc?export=view&id=1Q4_kN0eiEnW3c8SLE4ZSWRnRsD6fziZt",
+      "id": 133,
+      "name": "barbell incline reverse-grip press",
+      "target": "triceps",
+      "instructions": "Lie on an incline bench and hold a barbell with a reverse grip. Lower the barbell to your chest, then push it back up to the starting position. Repeat."
+    },
+    {
+      "bodyPart": "upper arms",
+      "equipment": "barbell",
+      "gifUrl": "https://drive.google.com/uc?export=view&id=1hZ-AUC-ImZwexFX7DVjJ94zGysao2SeJ",
+      "id": 137,
+      "name": "barbell jm bench press",
+      "target": "triceps",
+      "instructions": "Lie on a bench and hold a barbell with a close grip. Lower the barbell to your chest, then push it back up to the starting position. Repeat."
+    },
+    {
+      "bodyPart": "upper arms",
+      "equipment": "barbell",
+      "gifUrl": "https://drive.google.com/uc?export=view&id=1sSX9s2oDeeU4qD1575El-_1h8evX1Dz2",
+      "id": 142,
+      "name": "barbell lying back of the head tricep extension",
+      "target": "triceps",
+      "instructions": "Lie on a bench and hold a barbell with a close grip. Lower the barbell behind your head, then extend your arms to return to the starting position. Repeat."
+    },
+    {
+      "bodyPart": "upper arms",
+      "equipment": "barbell",
+      "gifUrl": "https://drive.google.com/uc?export=view&id=1Ihb6zckf857lY3ukDgm6rMZpom09Hs7g",
+      "id": 143,
+      "name": "barbell lying close-grip press",
+      "target": "triceps",
+      "instructions": "Lie on a bench and hold a barbell with a close grip. Lower the barbell to your chest, then push it back up to the starting position. Repeat."
+    },
+    {
+      "bodyPart": "upper arms",
+      "equipment": "barbell",
+      "gifUrl": "https://drive.google.com/uc?export=view&id=1bSBN9vYOwZSjb1iG6qgE6y8OUj35Nwyn",
+      "id": 144,
+      "name": "barbell lying close-grip triceps extension",
+      "target": "triceps",
+      "instructions": "Lie on a bench and hold a barbell with a close grip. Lower the barbell to your forehead, then extend your arms to return to the starting position. Repeat."
+    },
+    {
+      "bodyPart": "upper arms",
+      "equipment": "barbell",
+      "gifUrl": "https://drive.google.com/uc?export=view&id=1DKVWTUQp7PvrC8FseipsGvkNTARI6jTj",
+      "id": 145,
+      "name": "barbell lying extension",
+      "target": "triceps",
+      "instructions": "Lie on a bench and hold a barbell with a close grip. Lower the barbell to your forehead, then extend your arms to return to the starting position. Repeat."
+    }
+  ]
