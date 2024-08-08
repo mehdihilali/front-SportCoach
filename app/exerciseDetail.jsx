@@ -7,6 +7,7 @@ import Anticons from 'react-native-vector-icons/AntDesign';
 const ExerciseDetail = () => {
   const router = useRouter();
   const item = useLocalSearchParams();
+  const instructions = item.instructions.split('. ').filter(instruction => instruction.trim() !== '');
 
   return (
     <View className="flex-1 bg-primary">
@@ -14,7 +15,7 @@ const ExerciseDetail = () => {
         <Image
           source={{ uri: item.gifUrl }}
           resizeMode="cover"
-          style={{ width: wp(100), height: wp(100) }}
+          className="w-full h-[100vw]"
         />
         <TouchableOpacity
           onPress={() => router.back()}
@@ -29,43 +30,37 @@ const ExerciseDetail = () => {
         showsVerticalScrollIndicator={false}
         contentContainerStyle={{ paddingBottom: hp(10) }}
       >
-        <Text style={{ fontSize: hp(3.5) }} className="font-psemibold tracking-wide text-purple-400 mb-4">
+        <Text className="font-psemibold tracking-wide text-purple-400 mb-4" style={{ fontSize: hp(3.5) }}>
           {item?.name}
         </Text>
 
         <View className="bg-gray-800 p-4 rounded-xl shadow-lg mb-4">
-          <Text style={{ fontSize: hp(2.5) }} className="font-psemibold tracking-wide text-gray-100 mb-2">
+          <Text className="font-psemibold tracking-wide text-gray-100 mb-2" style={{ fontSize: hp(2.5) }}>
             Equipment: <Text className="font-psemibold text-purple-300">
               {item?.equipment}
             </Text>
           </Text>
-          <Text style={{ fontSize: hp(2.5) }} className="font-psemibold tracking-wide text-gray-100 mb-2">
-            Secondary Muscles: <Text className="font-psemibold text-purple-300">
-              {item?.secondaryMuscles}
-            </Text>
-          </Text>
-          <Text style={{ fontSize: hp(2.5) }} className="font-psemibold tracking-wide text-gray-100 mb-2">
+          
+          <Text className="font-psemibold tracking-wide text-gray-100 mb-2" style={{ fontSize: hp(2.5) }}>
             Target: <Text className="font-psemibold text-purple-300">
               {item?.target}
             </Text>
           </Text>
         </View>
 
-        <Text style={{ fontSize: hp(3) }} className="font-psemibold tracking-wide text-purple-400 mb-4">
+        <Text className="font-psemibold tracking-wide text-purple-400 mb-4" style={{ fontSize: hp(3) }}>
           Instructions
         </Text>
         <View className="bg-gray-800 p-4 rounded-xl shadow-lg">
-          {
-            item.instructions.split(',').map((instruction, index) => (
-              <Text
-                key={index}
-                style={{ fontSize: hp(2) }}
-                className="text-gray-100 mb-2"
-              >
-                {index + 1}. {instruction.trim()}
-              </Text>
-            ))
-          }
+          {instructions.map((instruction, index) => (
+            <Text
+              key={index}
+              className="text-gray-100 font-pmedium mb-2"
+              style={{ fontSize: hp(2) }}
+            >
+              {index + 1}. {instruction.trim()}
+            </Text>
+          ))}
         </View>
       </ScrollView>
     </View>

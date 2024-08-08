@@ -17,8 +17,8 @@ const questionTextMap = {
   "Choose your target body type": "Target Body Type",
   "What is your activity level?": "Activity Level",
   "How long do you walk on a typical day?": "Daily Walk Duration",
-  "Do you have any serious back problems?": "Have Serious Back Problems",
-  "Are you experiencing discomfort anywhere?": "Have Discomfort In"
+  "Do you have any serious back problems?": "Back Problems ?",
+  "Are you experiencing discomfort anywhere?": "Discomfort In"
 };
 
 const DiagnosticResults = ({ completedResponses }) => {
@@ -50,7 +50,7 @@ const DiagnosticResults = ({ completedResponses }) => {
   return (
     <ScrollView contentContainerStyle={{ flexGrow: 1, paddingBottom: 100 }} className="bg-gray-900 p-4">
       <View className="flex-1 p-4">
-        <Text className="text-white font-bold text-3xl mb-6 text-center">
+        <Text className="text-purple-600 font-psemibold text-3xl mb-6 mt-10 text-center">
           Diagnostic Results
         </Text>
 
@@ -61,8 +61,8 @@ const DiagnosticResults = ({ completedResponses }) => {
                 <Text className="text-purple-500 text-lg font-semibold">
                   {questionTextMap[question] || question}
                 </Text>
-                <TouchableOpacity onPress={() => toggleVisibility(index)}>
-                  <Ionicons name={visibleAnswers[index] ? "eye-outline" : "eye-off-outline"} size={24} color="white" />
+                <TouchableOpacity onPress={() => toggleVisibility(index)} className="ml-2">
+                  <Ionicons name={visibleAnswers[index] ? "eye-outline" : "eye-off-outline"} size={23} color="#d8b4fe"/>
                 </TouchableOpacity>
               </View>
               {visibleAnswers[index] && (
