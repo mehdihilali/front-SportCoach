@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { FlatList, Image, TouchableOpacity, View, Text, Alert, ActivityIndicator } from 'react-native';
+import { FlatList, TouchableOpacity, View, Text, Alert, ActivityIndicator, Linking } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { useRouter } from 'expo-router';
@@ -10,6 +10,9 @@ import { SERVER_IP } from '@env';
 import { GoogleSignin, statusCodes } from '@react-native-google-signin/google-signin';
 import auth from '@react-native-firebase/auth';
 import { showMessage } from 'react-native-flash-message';
+import * as Animatable from 'react-native-animatable';
+import Video from 'react-native-video';
+import ProfileSliderImages from '../../components/ProfileSliderImages';
 
 const Profile = () => {
   const { user, setIsLogged, setUser } = useGlobalContext();
@@ -46,7 +49,7 @@ const Profile = () => {
   }, []);
 
   const logout = async () => {
-    if (loading) return; // Prevent multiple logout attempts
+    if (loading) return;
 
     setLoading(true);
     try {
@@ -57,8 +60,6 @@ const Profile = () => {
         if (currentUser) {
           await GoogleSignin.revokeAccess();
           await GoogleSignin.signOut();
-        } else {
-          console.warn("Google Sign-In: No user is currently signed in.");
         }
       } else if (signInMethod === 'simple') {
         const currentUser = auth().currentUser;
@@ -102,11 +103,20 @@ const Profile = () => {
               {loading ? (
                 <ActivityIndicator size="small" color="#ffffff" />
               ) : (
-                <Image source={icons.logout} resizeMode="contain" className="w-6 h-6 ml-80" />
+                <Animatable.Image animation="fadeIn" source={icons.logout} resizeMode="contain" className="w-6 h-6 ml-80" />
               )}
             </TouchableOpacity>
+            <View className="rounded-full border-4 border-purple-500 overflow-hidden w-60 h-60">
+              <Video
+                source={{ uri: 'https://drive.google.com/uc?export=download&id=1QmCVOjJ8TCazTjOv_SQQXgMDJoY4Rgfc' }}
+                style={{ width: '100%', height: '100%' }}
+                resizeMode="cover"
+                repeat
+                muted
+              />
+            </View>
             <View className="mt-5">
-              <Text className="font-psemibold text-3xl text-gray-100">{user?.username}</Text>
+              <Text className="font-psemibold text-3xl text-purple-300 text-center">{user?.username}</Text>
               <Text className="text-xl text-gray-400">{user?.email}</Text>
             </View>
           </View>
@@ -117,6 +127,52 @@ const Profile = () => {
           </View>
         )}
       />
+
+      <View>
+        <ProfileSliderImages />
+      </View>
+
+      <Text className="text-gray-200 font-pmedium text-[20px] text-center">Join 
+        <Text className="text-purple-500 font-psemibold"> PowerFitness</Text>
+      </Text>
+      <View className="flex-row mb-36 justify-center items-center space-x-3">
+        <TouchableOpacity onPress={() => Linking.openURL('https://www.facebook.com/powerfts?mibextid=ZbWKwL')} className="mt-1">
+          <Animatable.Image 
+            animation="bounceIn"
+            iterationCount="infinite"
+            source={icons.facebook}
+            resizeMode="contain"
+            className="w-8 h-8"
+          />
+        </TouchableOpacity>
+        <TouchableOpacity onPress={() => Linking.openURL('mailto:powerfitness478@gmail.com')} className="mt-1">
+          <Animatable.Image 
+            animation="bounceIn"
+            iterationCount="infinite"
+            source={icons.gmail}
+            resizeMode="contain"
+            className="w-8 h-8"
+          />
+        </TouchableOpacity>
+        <TouchableOpacity onPress={() => Linking.openURL('https://www.instagram.com/powerfts/')} className="mt-1">
+          <Animatable.Image 
+            animation="bounceIn"
+            iterationCount="infinite"
+            source={icons.instagram}
+            resizeMode="contain"
+            className="w-8 h-8"
+          />
+        </TouchableOpacity>
+        <TouchableOpacity onPress={() => Linking.openURL('https://wa.me/212688888435')} className="mt-1">
+          <Animatable.Image 
+            animation="bounceIn"
+            iterationCount="infinite"
+            source={icons.whatsapp}
+            resizeMode="contain"
+            className="w-8 h-8"
+          />
+        </TouchableOpacity>
+      </View>
     </SafeAreaView>
   );
 };

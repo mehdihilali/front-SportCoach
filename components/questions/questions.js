@@ -1,5 +1,4 @@
 const questions = [
-  // Existing questions
   { id: 1, text: "What is your age?", type: 'age' },
   { id: 2, text: "Select your gender", type: 'select', options: [
       { label: "Female", value: "female", image: require('../../assets/images/female.png') },
@@ -48,7 +47,7 @@ const questions = [
   { label: "Yes", value: "yes", image: require('../../assets/YesNo/no.png') },
   { label: "No", value: "no", image: require('../../assets/YesNo/yes.png') }
 ],
-description: "If you have any back problems, please contact your physician before starting the Omo program."
+description: "If you have any back problems, please contact your physician before starting the SportCoach program."
 },
 { id: 12, text: "Are you experiencing discomfort anywhere?", type: 'discomfort' }
 ];
