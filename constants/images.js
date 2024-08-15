@@ -11,5 +11,6 @@ import diagnosticBackground from '../assets/images/diagnosticBackground.jpg';
 import recommendationBackground from '../assets/images/recommendationBackground.jpg'
 import exerciseBackground from '../assets/images/exerciseBackground.jpg'
 import profileBackground from '../assets/images/profileBackground.jpg'
+import diag from '../assets/images/diag.jpg'
 
-export default { profile, thumbnail, cards, path, logo, logoSmall, empty, powerFitness, logoSport, diagnosticBackground, recommendationBackground, exerciseBackground, profileBackground};
+export default { profile, thumbnail, cards, path, logo, logoSmall, empty, powerFitness, logoSport, diagnosticBackground, recommendationBackground, exerciseBackground, profileBackground, diag};

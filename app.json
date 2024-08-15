@@ -13,7 +13,14 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.elhilalielmehdi.sportcoachapp",
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "config": {
+        "googleSignIn": {
+          "reservedClientId": "$(GOOGLE_REVERSED_CLIENT_ID)"
+        }
+      }
     },
     "android": {
       "googleServicesFile": "./google-services.json",

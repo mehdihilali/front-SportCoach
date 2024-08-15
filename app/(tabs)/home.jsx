@@ -84,7 +84,7 @@ const Home = () => {
             <View className="w-1/2 p-2">
               <ClickableCard
                 title="Diagnostic"
-                image={images.diagnosticBackground}
+                image={images.diag}
                 icon={icons.diagnostic}
                 date={currentDate}
                 onPress={() => handleNavigation('/diagnostic')}

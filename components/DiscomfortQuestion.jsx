@@ -1,11 +1,19 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { View, Text, TouchableOpacity, Image, StyleSheet } from 'react-native';
 import { Controller } from 'react-hook-form';
 
 const DiscomfortQuestion = ({ control, question, errors, onNext }) => {
+  const [selectedOptions, setSelectedOptions] = useState([]);
+
   const handleSelectOption = (onChange, option) => {
-    onChange(option.value);
-    onNext({ [`question${question.id}`]: option.value });
+    let updatedSelectedOptions;
+    if (selectedOptions.includes(option.value)) {
+      updatedSelectedOptions = selectedOptions.filter(item => item !== option.value);
+    } else {
+      updatedSelectedOptions = [...selectedOptions, option.value];
+    }
+    setSelectedOptions(updatedSelectedOptions);
+    onChange(updatedSelectedOptions);
   };
 
   const options = [
@@ -17,9 +25,12 @@ const DiscomfortQuestion = ({ control, question, errors, onNext }) => {
     { label: 'Foot & Ankle', value: 'foot_ankle', top: 380, left: 80, labelTop: 360, labelLeft: -15 },
   ];
 
+  const handleFinish = () => {
+    onNext({ [`question${question.id}`]: selectedOptions });
+  };
+
   return (
     <View className="mb-4 flex items-center">
-      {/* <Text className="text-lg font-semibold mb-4">{question.text}</Text> */}
       <Controller
         control={control}
         name={`question${question.id}`}
@@ -37,7 +48,11 @@ const DiscomfortQuestion = ({ control, question, errors, onNext }) => {
                     onPress={() => handleSelectOption(onChange, option)}
                     style={[
                       styles.circle,
-                      { top: option.top, left: option.left, backgroundColor: value === option.value ? 'rgba(128, 0, 128, 0.5)' : 'rgba(255, 255, 255, 0.5)' },
+                      { 
+                        top: option.top, 
+                        left: option.left, 
+                        backgroundColor: selectedOptions.includes(option.value) ? 'rgba(128, 0, 128, 0.5)' : 'rgba(255, 255, 255, 0.5)' 
+                      },
                     ]}
                   />
                 </React.Fragment>
@@ -45,6 +60,14 @@ const DiscomfortQuestion = ({ control, question, errors, onNext }) => {
             </View>
             {errors[`question${question.id}`] && (
               <Text className="text-red-500 mt-2 font-semibold">{errors[`question${question.id}`].message}</Text>
+            )}
+            {selectedOptions.length > 0 && (
+              <TouchableOpacity 
+                style={styles.finishButton} 
+                onPress={handleFinish}
+              >
+                <Text style={styles.finishButtonText}>Finish</Text>
+              </TouchableOpacity>
             )}
           </>
         )}
@@ -77,6 +100,18 @@ const styles = StyleSheet.create({
     fontSize: 13,
     fontWeight: 'bold',
     color: '#86469C',
+  },
+  finishButton: {
+    marginTop: 20,
+    paddingVertical: 10,
+    paddingHorizontal: 20,
+    backgroundColor: '#AF47D2',
+    borderRadius: 10,
+  },
+  finishButtonText: {
+    color: '#fff',
+    fontWeight: 'bold',
+    fontSize: 16,
   },
 });
 
