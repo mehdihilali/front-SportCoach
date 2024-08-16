@@ -20,7 +20,7 @@ const DiscomfortQuestion = ({ control, question, errors, onNext }) => {
     { label: 'Shoulder', value: 'shoulder', top: 70, left: 150, labelTop: 58, labelLeft: 190 },
     { label: 'Elbow', value: 'elbow', top: 130, left: 30, labelTop: 120, labelLeft: -30 },
     { label: 'Back', value: 'back', top: 150, left: 130, labelTop: 140, labelLeft: 170 },
-    { label: 'Hip', value: 'hip', top: 240, left: 75, labelTop: 230, labelLeft: 28 },
+    { label: 'Hip', value: 'hip', top: 190, left: 55, labelTop: 180, labelLeft: 15 },
     { label: 'Knee', value: 'knee', top: 285, left: 137, labelTop: 275, labelLeft: 175 },
     { label: 'Foot & Ankle', value: 'foot_ankle', top: 380, left: 80, labelTop: 360, labelLeft: -15 },
   ];

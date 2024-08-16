@@ -1,11 +1,12 @@
 import React, { useEffect, useState } from 'react';
-import { View, Text, Image, ScrollView, TouchableOpacity, Modal, LayoutAnimation, Platform, UIManager } from 'react-native';
+import { View, Text, Image, ScrollView, TouchableOpacity, Modal, LayoutAnimation, Platform, UIManager, Share, Alert } from 'react-native';
 import axios from 'axios';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { SERVER_IP } from '@env';
 import CustomButton from '../../components/CustomButton'; // Adjust the path as needed
 import { useNavigation } from '@react-navigation/native';
 import * as Animatable from 'react-native-animatable';
+import { moderateScale, scale, verticalScale } from 'react-native-size-matters';
 
 if (Platform.OS === 'android') {
   UIManager.setLayoutAnimationEnabledExperimental(true);
@@ -27,19 +28,17 @@ const Recommendation = () => {
           const response = await axios.get(`http://${SERVER_IP}:5001/get-diagnostic`, {
             headers: { Authorization: `Bearer ${token}` },
           });
-          console.log('Diagnostic response:', response.data); // Log the diagnostic response
           setDiagnosticStatus(response.data.status);
           if (response.data.status === 'completed') {
             if (response.data.data && response.data.data.recommendation) {
-              setRecommendations([response.data.data.recommendation]); // Assuming response.data.data.recommendation is an object
-              console.log('Recommendations:', response.data.data.recommendation); // Log the recommendations
+              setRecommendations([response.data.data.recommendation]);
             }
           }
         } catch (error) {
           console.error('Error fetching diagnostic status:', error);
         }
       } else {
-        console.log('Token not found'); // Log if token is not found
+        console.log('Token not found');
       }
     };
 
@@ -76,7 +75,7 @@ const Recommendation = () => {
       ));
     } else if (typeof steps === 'string') {
       return steps.split('\n').map((step, index) => {
-        const isMainTitle = step.match(/^\d+\./); // Check if the line starts with a number followed by a period
+        const isMainTitle = step.match(/^\d+\./);
         if (isMainTitle) {
           const titleMatch = step.match(/(\d+\.\*\*.*?\*\*)/);
           const title = titleMatch ? titleMatch[0] : step;
@@ -119,6 +118,42 @@ const Recommendation = () => {
     return null;
   };
 
+  const shareRecommendation = async (recommendation) => {
+    try {
+      const message = `
+        🌟 *${recommendation.Title}* 🌟
+
+        *Description:*
+        ${recommendation.Description}
+
+        *Steps to Achieve Goals:*
+        ${recommendation.HowToAchieveTheGoals.replace(/\\n/g, '\n').split('\n').map(step => `- ${step}`).join('\n')}
+
+        *Time to Finish Program:*
+        ${recommendation.timeNeededToAchieveGoals}
+
+        Shared via SportCoachApp 🏋️‍♂️
+      `;
+
+      const result = await Share.share({
+        message: message,
+      });
+
+      if (result.action === Share.sharedAction) {
+        if (result.activityType) {
+          console.log('Shared with activity type:', result.activityType);
+        } else {
+          console.log('Shared successfully');
+        }
+      } else if (result.action === Share.dismissedAction) {
+        console.log('Share dismissed');
+      }
+    } catch (error) {
+      console.error('Error sharing recommendation:', error);
+      Alert.alert('Error', 'Failed to share recommendation');
+    }
+  };
+
   if (diagnosticStatus === 'not_completed') {
     return (
       <View className="flex-1 justify-center items-center p-4 bg-gray-900">
@@ -144,12 +179,12 @@ const Recommendation = () => {
   }
 
   return (
-    <ScrollView className="flex-1 p-4 bg-gray-900" contentContainerStyle={{ justifyContent: 'center', paddingBottom: 100}}>
+    <ScrollView className="flex-1 p-4 bg-gray-900" contentContainerStyle={{ justifyContent: 'center', paddingBottom: verticalScale(100)}}>
       {recommendations.map((recommendation, index) => (
         <View key={index} className="bg-gray-800 rounded-lg mb-6 shadow-lg overflow-hidden">
           <TouchableOpacity 
             onPress={() => toggleExpand(index)} 
-            className="bg-gray-800 rounded-lg shadow-lg mt-10 mb-10 w-[90%] p-5 items-center justify-center"
+            className="bg-gray-800 rounded-lg shadow-lg mt-5 mb-15 w-[100%] p-5 items-center justify-center"
             style={{ alignSelf: 'center' }}
           >
             <View className="items-center justify-center">
@@ -182,6 +217,9 @@ const Recommendation = () => {
               <TouchableOpacity onPress={() => openModal(recommendation)} className="mt-4 bg-purple-700 p-4 rounded-lg">
                 <Text className="text-white text-lg font-semibold text-center">View More</Text>
               </TouchableOpacity>
+              <TouchableOpacity onPress={() => shareRecommendation(recommendation)} className="mt-4 bg-blue-700 p-4 rounded-lg">
+                <Text className="text-white text-lg font-semibold text-center">Share</Text>
+              </TouchableOpacity>
             </View>
           )}
         </View>
@@ -194,7 +232,7 @@ const Recommendation = () => {
           onRequestClose={closeModal}
         >
           <View className="flex-1 justify-center items-center bg-gray-900 bg-opacity-75 p-4">
-            <ScrollView className="bg-gray-800 rounded-lg p-6 w-full max-w-lg" contentContainerStyle={{ paddingBottom: 50 }}>
+            <ScrollView className="bg-gray-800 rounded-lg p-6 w-full max-w-lg" contentContainerStyle={{ paddingBottom: verticalScale(50) }}>
               <Text className="text-purple-600 text-2xl font-bold mb-4 text-center">Recommendation Details</Text>
               {selectedRecommendation.imageUrl && (
                 <Image source={{ uri: selectedRecommendation.imageUrl }} className="w-full h-64 rounded-lg mb-4" />

@@ -1,4 +1,3 @@
-// pages/Home.jsx
 import React, { useEffect } from 'react';
 import { View, Text, Alert, Image, ScrollView } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
@@ -11,6 +10,7 @@ import { SERVER_IP } from '@env';
 import * as Animatable from 'react-native-animatable';
 import ClickableCard from '../../components/ClickableCard';
 import { getCurrentDate } from '../../utils/getCurrentDate';
+import { moderateScale, scale, verticalScale } from 'react-native-size-matters';
 
 const Home = () => {
   const { user, setIsLogged, setUser } = useGlobalContext();
@@ -53,17 +53,22 @@ const Home = () => {
 
   return (
     <SafeAreaView className="flex-1 bg-primary">
-      <ScrollView contentContainerStyle={{ padding: 16 }} className="bg-primary">
+      <ScrollView
+        contentContainerStyle={{ padding: moderateScale(16), paddingBottom: verticalScale(100) }} // Adding padding to avoid being hidden by the tab bar
+        className="bg-primary"
+      >
         <View className="flex-row justify-between items-center mb-4">
           <View>
-            <Text className="text-xl text-gray-100">Welcome Back</Text>
-            <Text className="text-3xl font-bold text-purple-500 mt-2">
+            <Text className="text-lg text-gray-100 mt-5">
+              Welcome Back
+            </Text>
+            <Text className="text-2xl font-psemibold text-purple-500 mt-2">
               {user?.username}
             </Text>
           </View>
           <Image
             source={images.logoSport}
-            className="w-32 h-16"
+            className="w-28 h-16 mt-5"
             resizeMode="contain"
           />
         </View>
@@ -80,13 +85,14 @@ const Home = () => {
           </Text>
         </Animatable.View>
         <View className="mt-4">
-          <View className="flex flex-row flex-wrap justify-center mt-20">
+          <View className="flex flex-row flex-wrap justify-between mt-20">
             <View className="w-1/2 p-2">
               <ClickableCard
                 title="Diagnostic"
                 image={images.diag}
                 icon={icons.diagnostic}
                 date={currentDate}
+                style={{ aspectRatio: 1 }} // Make the card square
                 onPress={() => handleNavigation('/diagnostic')}
               />
             </View>
@@ -96,6 +102,7 @@ const Home = () => {
                 image={images.recommendationBackground}
                 icon={icons.nutrition}
                 date={currentDate}
+                style={{ aspectRatio: 1 }} // Make the card square
                 onPress={() => handleNavigation('/recommendation')}
               />
             </View>
@@ -105,6 +112,7 @@ const Home = () => {
                 image={images.profileBackground}
                 icon={icons.user}
                 date={currentDate}
+                style={{ aspectRatio: 1 }} // Make the card square
                 onPress={() => handleNavigation('/profile')}
               />
             </View>
@@ -114,6 +122,7 @@ const Home = () => {
                 image={images.exerciseBackground}
                 icon={icons.exercice}
                 date={currentDate}
+                style={{ aspectRatio: 1 }} // Make the card square
                 onPress={() => handleNavigation('/exercise')}
               />
             </View>

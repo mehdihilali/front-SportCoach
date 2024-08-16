@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { FlatList, TouchableOpacity, View, Text, Alert, ActivityIndicator, Linking } from 'react-native';
+import { View, Text, Alert, ActivityIndicator, TouchableOpacity, Linking } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { useRouter } from 'expo-router';
@@ -95,44 +95,35 @@ const Profile = () => {
 
   return (
     <SafeAreaView className="bg-primary h-full">
-      <FlatList
-        data={[]}
-        ListHeaderComponent={() => (
-          <View className="w-full justify-center items-center mt-6 mb-12 px-4">
-            <TouchableOpacity className="w-full items-end mb-10" onPress={logout} disabled={loading}>
-              {loading ? (
-                <ActivityIndicator size="small" color="#ffffff" />
-              ) : (
-                <Animatable.Image animation="fadeIn" source={icons.logout} resizeMode="contain" className="w-6 h-6 ml-80" />
-              )}
-            </TouchableOpacity>
-            <View className="rounded-full border-4 border-purple-500 overflow-hidden w-60 h-60">
-              <Video
-                source={{ uri: 'https://drive.google.com/uc?export=download&id=1QmCVOjJ8TCazTjOv_SQQXgMDJoY4Rgfc' }}
-                style={{ width: '100%', height: '100%' }}
-                resizeMode="cover"
-                repeat
-                muted
-              />
-            </View>
-            <View className="mt-5">
-              <Text className="font-psemibold text-3xl text-purple-300 text-center">{user?.username}</Text>
-              <Text className="text-xl text-gray-400">{user?.email}</Text>
-            </View>
-          </View>
-        )}
-        ListEmptyComponent={() => (
-          <View className="justify-center items-center h-full">
-            <Text className="text-lg text-gray-100">No Information Available</Text>
-          </View>
-        )}
-      />
+      <View className="w-full justify-center items-center mt-6 mb-12 px-4">
+        <TouchableOpacity className="w-full items-end mb-10" onPress={logout} disabled={loading}>
+          {loading ? (
+            <ActivityIndicator size="small" color="#ffffff" />
+          ) : (
+            <Animatable.Image animation="fadeIn" source={icons.logout} resizeMode="contain" className="w-6 h-6 ml-80" />
+          )}
+        </TouchableOpacity>
+        <View className="rounded-full border-4 border-purple-500 overflow-hidden w-36 h-36 md:w-60 md:h-60">
+          <Video
+            source={{ uri: 'https://drive.google.com/uc?export=download&id=1QmCVOjJ8TCazTjOv_SQQXgMDJoY4Rgfc' }}
+            style={{ width: '100%', height: '100%' }}
+            resizeMode="cover"
+            repeat
+            muted
+          />
+        </View>
+        <View className="mt-5">
+          <Text className="font-psemibold text-2xl md:text-3xl text-purple-300 text-center">{user?.username}</Text>
+          <Text className="text-lg md:text-xl text-gray-400">{user?.email}</Text>
+        </View>
+      </View>
 
-      <View>
+      <View className="w-full">
         <ProfileSliderImages />
       </View>
 
-      <Text className="text-gray-200 font-pmedium text-[20px] text-center">Join 
+      <Text className="text-gray-200 font-pmedium text-lg md:text-[20px] text-center">
+        Join 
         <Text className="text-purple-500 font-psemibold"> PowerFitness</Text>
       </Text>
       <View className="flex-row mb-36 justify-center items-center space-x-3">
@@ -142,7 +133,7 @@ const Profile = () => {
             iterationCount="infinite"
             source={icons.facebook}
             resizeMode="contain"
-            className="w-8 h-8"
+            className="w-6 h-6 md:w-8 md:h-8"
           />
         </TouchableOpacity>
         <TouchableOpacity onPress={() => Linking.openURL('mailto:powerfitness478@gmail.com')} className="mt-1">
@@ -151,7 +142,7 @@ const Profile = () => {
             iterationCount="infinite"
             source={icons.gmail}
             resizeMode="contain"
-            className="w-8 h-8"
+            className="w-6 h-6 md:w-8 md:h-8"
           />
         </TouchableOpacity>
         <TouchableOpacity onPress={() => Linking.openURL('https://www.instagram.com/powerfts/')} className="mt-1">
@@ -160,7 +151,7 @@ const Profile = () => {
             iterationCount="infinite"
             source={icons.instagram}
             resizeMode="contain"
-            className="w-8 h-8"
+            className="w-6 h-6 md:w-8 md:h-8"
           />
         </TouchableOpacity>
         <TouchableOpacity onPress={() => Linking.openURL('https://wa.me/212688888435')} className="mt-1">
@@ -169,7 +160,7 @@ const Profile = () => {
             iterationCount="infinite"
             source={icons.whatsapp}
             resizeMode="contain"
-            className="w-8 h-8"
+            className="w-6 h-6 md:w-8 md:h-8"
           />
         </TouchableOpacity>
       </View>

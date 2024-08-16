@@ -16,8 +16,8 @@ const ProfileSliderImages = () => {
   const scrollViewRef = useRef(null);
   const scrollOffset = useRef(0);
   const { width: screenWidth } = useWindowDimensions();
-  const IMAGE_WIDTH = screenWidth * 0.9;
-  const IMAGE_HEIGHT = 250;
+  const IMAGE_WIDTH = screenWidth * 0.8;
+  const IMAGE_HEIGHT = 200;
 
   useEffect(() => {
     const interval = setInterval(() => {
